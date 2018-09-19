@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_command_search"
+          android:icon="?attr/menu_search_theme_icon"
+          android:title="@string/action_app_search"
+          android:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/action_settings"
+          android:title="@string/action_app_settings"
+          android:showAsAction="never"/>
+
+    <item android:id="@+id/action_share"
+          android:showAsAction="ifRoom"
+          android:title="@string/action_app_share"
+          android:actionProviderClass="android.widget.ShareActionProvider"/>
+</menu>

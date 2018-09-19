@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="COLOR_002EB8">#FF002EB8</color>
+    <color name="COLOR_002AA5">#FF002AA5</color>
+    <color name="COLOR_001B6C">#FF001B6C</color>
+    <color name="COLOR_FFFF00">#FFFFFF00</color>
+    <color name="COLOR_FEA50A">#FFFEA50A</color>
+    <color name="COLOR_FECE0A">#FFFECE0A</color>
+    <color name="COLOR_F5C227">#FFf5c227</color>
+    <color name="COLOR_B2B2B2">#FFb2b2b2</color>
+    <color name="COLOR_C2C2C2">#FFc2c2c2</color>
+    <color name="COLOR_858585">#FF858585</color>
+    <color name="COLOR_7F7F7F">#FF7F7F7F</color>
+    <color name="COLOR_717171">#FF717171</color>
+    <color name="COLOR_525252">#FF525252</color>
+    <color name="COLOR_7AAFFF">#FF7AAFFF</color>
+    <color name="COLOR_3D8BFF">#FF3D8BFF</color>
+    <color name="COLOR_E72400">#ffe72400</color>
+    <color name="COLOR_3D3D3D">#FF3D3D3D</color>
+    <color name="COLOR_FFFFCC">#FFFFFFCC</color>
+    <color name="COLOR_E6CCFF">#FFE6CCFF</color>
+    <color name="COLOR_B26818">#FFb26818</color>
+    <color name="COLOR_46F1FF">#FF46f1ff</color>
+    <color name="COLOR_4CF554">#FF4cf554</color>
+    <color name="COLOR_18A818">#FF18a818</color>
+    <color name="COLOR_FF50EC">#FFff50ec</color>
+    <color name="COLOR_189FB2">#FF189fb2</color>
+    <color name="COLOR_DAAA">#DAAA</color>
+    <color name="COLOR_757678">#FF757678</color>
+    <color name="COLOR_E8E8E8">#ffe8e8e8</color>
+
+    <color name="COLOR_HOLO_BLUE_LIGHT">#ff33b5e5</color>
+    <color name="COLOR_HOLO_BLUE_DARK">#ff0099cc</color>
+    <color name="COLOR_HOLO_BLUE_BRIGHT">#ff00ddff</color>
+</resources>

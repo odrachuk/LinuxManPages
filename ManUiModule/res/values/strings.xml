@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Linux Manuals</string>
+    <string name="stub">Stub</string>
+    <string name="section">Section</string>
+
+    <!-- Menu -->
+    <string name="action_app_search">Search</string>
+    <string name="action_app_settings">Settings</string>
+    <string name="action_app_share">Share</string>
+
+    <string-array name="man_nav_items">
+        <item>Section 1</item>
+        <item>Section 2</item>
+        <item>Section 3</item>
+        <item>Section 4</item>
+        <item>Section 5</item>
+        <item>Section 6</item>
+        <item>Section 7</item>
+        <item>Section 8</item>
+        <item>History</item>
+        <item>Favorite</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+
+    <!-- Preferences -->
+    <string name="pref_info_title">Information</string>
+    <string name="pref_app_title">Application</string>
+    <string name="pref_app_version_key">pref_app_version</string>
+    <string name="pref_app_version_title">App version</string>
+    <string name="pref_app_clear_history_key">pref_clear_history</string>
+    <string name="pref_app_clear_history_title">Clear history</string>
+    <string name="pref_app_clear_favorite_key">pref_clear_favorite</string>
+    <string name="pref_app_clear_favorite_title">Clear favorites</string>
+    <string name="pref_app_select_theme_key">pref_select_theme</string>
+    <string name="pref_app_select_theme_title">Theme</string>
+    <string name="pref_app_select_theme_summary">Select application theme</string>
+
+    <string name="input_search_text">Input search text</string>
+    <string name="other_upp_case">OTHER</string>
+    <string name="man_upp_case">MAN</string>
+
+    <!-- Filtering dialog -->
+    <string name="man_section">Man section</string>
+    <string name="no_search_results">No search results</string>
+    <string name="no_search_criteria">Please define search criteria</string>
+    <string name="search_results">Search results</string>
+    <string name="section_title">Section:</string>
+    <string name="name_title">Name:</string>
+    <string name="synopsis_title">Synopsis:</string>
+    <string name="favorite">Favorite</string>
+    <string-array name="man_filter_dlg_sections_array">
+        <item>All</item>
+        <item>Section 1</item>
+        <item>Section 2</item>
+        <item>Section 3</item>
+        <item>Section 4</item>
+        <item>Section 5</item>
+        <item>Section 6</item>
+        <item>Section 7</item>
+        <item>Section 8</item>
+    </string-array>
+
+    <string name="banner_ad_unit_id">ca-app-pub-8327596748101781/9372324158</string>
+    <string name="no_history_items">No history items</string>
+    <string name="no_favorite_items">No favorite items</string>
+</resources>

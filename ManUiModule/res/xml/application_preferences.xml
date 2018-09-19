@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+            android:title="@string/pref_app_title">
+        <Preference
+                android:key="@string/pref_app_clear_history_key"
+                android:title="@string/pref_app_clear_history_title"/>
+        <Preference
+                android:key="@string/pref_app_clear_favorite_key"
+                android:title="@string/pref_app_clear_favorite_title"/>
+        <ListPreference
+                android:key="@string/pref_app_select_theme_key"
+                android:title="@string/pref_app_select_theme_title"
+                android:summary="@string/pref_app_select_theme_summary"
+                android:dialogTitle="Theme"
+                android:entries="@array/theme_pref_list_entries"
+                android:entryValues="@array/theme_pref_list_values"
+                android:defaultValue="DarkTheme"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+            android:title="@string/pref_info_title">
+        <Preference
+                android:key="@string/pref_app_version_key"
+                android:title="@string/pref_app_version_title"/>
+    </PreferenceCategory>
+
+</PreferenceScreen>

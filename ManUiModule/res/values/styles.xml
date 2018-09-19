@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Man.Light" parent="android:Theme.Holo.Light">
+        <item name="android:textColorPrimary">@android:color/black</item>
+        <item name="android:textColorSecondary">@android:color/black</item>
+        <item name="android:textColorTertiary">@color/COLOR_C2C2C2</item>
+
+        <item name="android:colorForeground">@android:color/white</item>
+        <item name="android:colorForegroundInverse">@android:color/white</item>
+        <item name="android:colorBackground">@android:color/white</item>
+        <item name="android:windowBackground">@android:color/white</item>
+
+        <item name="android:actionBarStyle">@style/Man.Light.ActionBar</item>
+        <item name="android:popupMenuStyle">@style/Man.Light.PopupMenu</item>
+        <item name="android:dialogTheme">@style/Man.Light.Dialog</item>
+
+        <item name="menu_search_theme_icon">@drawable/ic_search_black_36dp</item>
+    </style>
+
+    <style name="Man.Dark" parent="android:Theme.Holo">
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:textColorSecondary">@android:color/white</item>
+        <item name="android:textColorTertiary">@color/COLOR_C2C2C2</item>
+
+        <item name="android:colorForeground">@android:color/black</item>
+        <item name="android:colorForegroundInverse">@android:color/black</item>
+        <item name="android:colorBackground">@android:color/black</item>
+        <item name="android:windowBackground">@android:color/black</item>
+
+        <item name="android:actionBarStyle">@style/Man.Dark.ActionBar</item>
+        <item name="android:popupMenuStyle">@style/Man.Dark.PopupMenu</item>
+        <item name="android:dialogTheme">@style/Man.Dark.Dialog</item>
+
+        <item name="menu_search_theme_icon">@drawable/ic_search_white_36dp</item>
+    </style>
+
+    <style name="Man.Light.ActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <!--<item name="android:titleTextStyle">@style/Man.ActionBar.TitleTextStyle</item>-->
+    </style>
+
+    <style name="Man.Dark.ActionBar" parent="@android:style/Widget.Holo.ActionBar">
+        <!--<item name="android:titleTextStyle">@style/Man.ActionBar.TitleTextStyle</item>-->
+    </style>
+
+    <!--<style name="Man.ActionBar.TitleTextStyle" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@android:color/black</item>
+    </style>-->
+
+    <style name="Man.Light.PopupMenu" parent="@android:style/Widget.Holo.Light.PopupMenu">
+    </style>
+
+    <style name="Man.Dark.PopupMenu" parent="@android:style/Widget.Holo.PopupMenu">
+    </style>
+
+    <style name="Man.Dark.Dialog" parent="@android:style/Theme.Holo.Dialog">
+    </style>
+
+    <style name="Man.Light.Dialog" parent="@android:style/Theme.Holo.Light.Dialog">
+    </style>
+</resources>

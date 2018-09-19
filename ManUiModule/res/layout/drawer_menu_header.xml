@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+          android:id="@+id/menu_header"
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+          android:background="@color/COLOR_757678"
+          android:textColor="@color/COLOR_HOLO_BLUE_LIGHT"
+          android:text="@string/stub"
+          android:clickable="false"
+          android:enabled="false"
+          style="?android:attr/listSeparatorTextViewStyle"/>

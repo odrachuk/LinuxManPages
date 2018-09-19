@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical"
+              android:paddingLeft="10dp"
+              android:paddingRight="5dp"
+              android:background="@drawable/man_table_record_bg">
+    <!-- Section -->
+    <TextView
+            android:id="@+id/search_results_section_descr"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:text="@string/section_title">
+    </TextView>
+    <TextView
+            android:id="@+id/search_result_section"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/COLOR_717171"
+            android:layout_marginBottom="8dp">
+    </TextView>
+    <!-- Command name -->
+    <TextView
+            android:id="@+id/search_result_command_name_descr"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:text="@string/name_title"
+            android:textColor="@color/COLOR_717171">
+    </TextView>
+    <TextView
+            android:id="@+id/search_result_command_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginBottom="8dp">
+    </TextView>
+    <!-- Synopsis -->
+    <TextView
+            android:id="@+id/search_result_command_synopsis_descr"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:text="@string/synopsis_title"
+            android:textColor="@color/COLOR_717171">
+    </TextView>
+    <TextView
+            android:id="@+id/search_result_command_synopsis"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginBottom="5dp">
+    </TextView>
+</LinearLayout>

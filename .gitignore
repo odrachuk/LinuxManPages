@@ -1,0 +1,33 @@
+# Directory #
+bin/
+gen/
+out/
+classes/
+.idea/
+target/
+proguard_logs/
+.settings/
+
+ManUiModule/gen
+ManUiModule/gen-external-apklibs
+
+# Man Resources #
+ManUiModule/assets/man1
+ManUiModule/assets/man2
+ManUiModule/assets/man3
+ManUiModule/assets/man4
+ManUiModule/assets/man5
+ManUiModule/assets/man6
+ManUiModule/assets/man7
+ManUiModule/assets/man8
+
+# Extensions #
+*.ipr
+*.iws
+*.iml
+*.classpath
+*.project
+
+# Files #
+.idea/workspace.xml
+man.sqlite
